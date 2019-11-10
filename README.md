@@ -14,8 +14,8 @@ This repository contains a breakdown and description of the numpy.random package
 3. Click the download button or clone the repository to your own Github account.
 
 ### How to run the code.
-1. Install a python code client (Anaconda recommended. See here for installer- [link](https://www.anaconda.com/distribution/)
-2. Run a command line client (cmder recommended. See here for installer- [link](https://github.com/cmderdev/cmder/releases/download/v1.3.11/cmder.zip)
+1. Install a python code client (Anaconda recommended. See here for installer- [link](https://www.anaconda.com/distribution/))
+2. Run a command line client (cmder recommended. See here for installer- [link](https://github.com/cmderdev/cmder/releases/download/v1.3.11/cmder.zip))
 3. Ensure you are in the correct directory where .ipynb is located using the cd command to navigate.
 4. To open the descriptions and code type Jupyter Notebook in the command window. 
 5. Your default browser window should be open now in the Jupyter interface. Select numpy.random explained.ipynb to open the file.
